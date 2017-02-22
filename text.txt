@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-changed from master
-=======
-changed from test branch
->>>>>>> changed from local
+new
