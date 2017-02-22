@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
+hesad
 
->>>>>>> change from new
-conflict
